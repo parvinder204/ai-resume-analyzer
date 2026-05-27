@@ -1,0 +1,92 @@
+[
+  {
+    "id": "job_001",
+    "title": "Senior Python Developer",
+    "company": "DataStream Inc.",
+    "location": "Remote (US)",
+    "salary_range": "$130,000 – $160,000",
+    "description": "We're seeking a Senior Python Developer to build scalable data pipelines and APIs. You'll work closely with data scientists and product teams to ship production ML systems.",
+    "required_skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS", "Redis", "scikit-learn"]
+  },
+  {
+    "id": "job_002",
+    "title": "Full-Stack Engineer (React + Node)",
+    "company": "Verve Labs",
+    "location": "San Francisco, CA",
+    "salary_range": "$120,000 – $150,000",
+    "description": "Join a product team building consumer-facing web apps. You'll own features end-to-end — from database schema to polished React UI.",
+    "required_skills": ["JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL", "Docker", "Git"]
+  },
+  {
+    "id": "job_003",
+    "title": "Machine Learning Engineer",
+    "company": "Orion AI",
+    "location": "New York, NY",
+    "salary_range": "$140,000 – $180,000",
+    "description": "Build and deploy ML models at scale. You'll design feature pipelines, train models, and own production model serving infrastructure.",
+    "required_skills": ["Python", "PyTorch", "scikit-learn", "MLflow", "AWS", "Docker", "Kubernetes", "Airflow"]
+  },
+  {
+    "id": "job_004",
+    "title": "Backend Engineer (Go)",
+    "company": "Meridian Systems",
+    "location": "Remote (Global)",
+    "salary_range": "$100,000 – $130,000",
+    "description": "Design and build high-throughput microservices in Go. Own the full lifecycle from API design to observability in production.",
+    "required_skills": ["Go", "PostgreSQL", "Redis", "Docker", "Kubernetes", "Prometheus", "Linux", "Git"]
+  },
+  {
+    "id": "job_005",
+    "title": "Data Engineer",
+    "company": "Pulse Analytics",
+    "location": "Austin, TX",
+    "salary_range": "$110,000 – $140,000",
+    "description": "Build data infrastructure that powers analytics and BI for hundreds of clients. You'll work with Airflow, dbt, Snowflake, and Spark.",
+    "required_skills": ["Python", "Spark", "Airflow", "dbt", "Snowflake", "SQL", "AWS", "Git"]
+  },
+  {
+    "id": "job_006",
+    "title": "DevOps / Platform Engineer",
+    "company": "CloudNine",
+    "location": "Remote (Europe)",
+    "salary_range": "$90,000 – $120,000",
+    "description": "Own our Kubernetes platform and CI/CD tooling. Champion developer experience across 50+ engineers.",
+    "required_skills": ["Kubernetes", "Docker", "Terraform", "AWS", "GitHub Actions", "Helm", "Linux", "Python"]
+  },
+  {
+    "id": "job_007",
+    "title": "iOS Developer",
+    "company": "Nomad Apps",
+    "location": "London, UK",
+    "salary_range": "£75,000 – £95,000",
+    "description": "Build delightful iOS experiences for millions of users. You'll own the full app lifecycle from concept to App Store.",
+    "required_skills": ["Swift", "iOS", "Xcode", "Git", "REST APIs", "Agile"]
+  },
+  {
+    "id": "job_008",
+    "title": "Frontend Engineer (React)",
+    "company": "Luminary UI",
+    "location": "Remote (US)",
+    "salary_range": "$115,000 – $145,000",
+    "description": "Craft pixel-perfect, accessible React components for a design system used by 30+ product teams.",
+    "required_skills": ["React", "TypeScript", "JavaScript", "CSS", "Figma", "Git", "Agile"]
+  },
+  {
+    "id": "job_009",
+    "title": "NLP / LLM Engineer",
+    "company": "Lingua AI",
+    "location": "Remote (Global)",
+    "salary_range": "$150,000 – $200,000",
+    "description": "Research and productionise large language model applications. You'll fine-tune models, build RAG pipelines, and evaluate outputs at scale.",
+    "required_skills": ["Python", "PyTorch", "Hugging Face", "LangChain", "OpenAI", "BERT", "GPT", "Docker", "AWS"]
+  },
+  {
+    "id": "job_010",
+    "title": "Android Developer",
+    "company": "Shift Mobile",
+    "location": "Berlin, Germany",
+    "salary_range": "€70,000 – €90,000",
+    "description": "Develop high-quality Android apps with a focus on performance, accessibility, and great UX.",
+    "required_skills": ["Kotlin", "Android", "Jetpack Compose", "Git", "REST APIs", "Agile"]
+  }
+]
