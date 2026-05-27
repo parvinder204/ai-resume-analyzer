@@ -1,0 +1,25 @@
+# ── Core PDF & NLP ─────────────────────────────────────────────────────────────
+PyPDF2==3.0.1
+spacy==3.7.4
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
+# ── Machine Learning ────────────────────────────────────────────────────────────
+scikit-learn==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+
+# ── Embeddings & Semantic Search ────────────────────────────────────────────────
+sentence-transformers==3.0.1
+torch==2.3.0
+
+# ── UI ──────────────────────────────────────────────────────────────────────────
+streamlit==1.36.0
+streamlit-extras==0.4.3
+plotly==5.22.0
+
+# ── Utilities ───────────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+Pillow==10.3.0
+pydantic==2.7.4
+loguru==0.7.2
+rich==13.7.1
